@@ -1,3 +1,5 @@
+# NitPick's FFmpeg
+
 NitPick uses FFmpeg under the GNU Lesser General Public License, version 2.1 (LGPL). This repository holds the exact FFmpeg source we build and the script we build it with.
 
 ## The source
