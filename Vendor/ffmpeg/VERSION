@@ -1,0 +1,7 @@
+# Pinned FFmpeg release that NitPick ships. Sourced by build-ffmpeg.sh.
+# Changing either value rebuilds FFmpeg (CI caches on this file + the script).
+#
+# The SHA-256 was taken from a tarball whose GPG signature verified against
+# FFmpeg's release signing key, fingerprint FCF9 86EA 15E6 E293 A564 4F10 B432 2F04 D676 58D8.
+FFMPEG_VERSION=9.0.2
+FFMPEG_SHA256=8c3850283eb25fa026482078a04051e0be17347b09ef81a0849bec15a96e002e
